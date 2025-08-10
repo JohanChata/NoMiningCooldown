@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "id": "nmc",
   "version": "${version}",
-  "name": "No Mining Cooldown",
-  "description": "Fixes the client-side block breaking delay; this feature is toggleable with the key bound to \"Toggle Mining Cooldown\" under miscellaneous.",
+  "name": "Better Color",
+  "description": "Better color",
   "authors": [
-    "Daxanius"
+    "SivY3d"
   ],
   "contact": {},
   "license": "GNU GPLv3",
